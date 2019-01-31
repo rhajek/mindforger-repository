@@ -80,6 +80,11 @@ Install MindForger from Arch User Repository (AUR):
 ## macOS <!-- Metadata: type: Note; created: 2018-06-12 19:47:21; reads: 18; read: 2018-06-12 19:50:48; revision: 7; modified: 2018-06-12 19:50:48; -->
 Install MindForger on macOS (tested on `Sierra 10.12`):
 
+Install Mindforger using Homebrew:
+```
+brew cask install mindforger
+```
+
 * [download .dmg](https://github.com/dvorka/mindforger/releases) from GitHub releases
 
 Install `.dmg`:
